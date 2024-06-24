@@ -1,3 +1,2 @@
 # resume-trial-
-trial on Html as  a newbie 
-creating a resume on HTML without any CSS just trying out html as a feeature , nothing more great happening here 
+using baasics of HTML to host a website on github based on html , without any prior knowledge on CSS or javascript 
